@@ -1,4 +1,4 @@
-console.log(process.env.INIT_CWD)
-console.log(__dirname)
-console.log(process.cwd())
-console.log(process.env.PWD)
+console.error(process.env.INIT_CWD)
+console.error(__dirname)
+console.error(process.cwd())
+console.error(process.env.PWD)
